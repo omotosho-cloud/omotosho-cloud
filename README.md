@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Omotosho Temitope 👋🏾
+____________________________________________________________________
+Software Developer | Full Stack Developer | Mobile App Developer
 
-<!--
-**omotosho-cloud/omotosho-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:   JavaScript, TypeScript, SQL, 
+Frontend:    React, Next.js, Tailwind CSS, Framer Motion
+Backend:     FastAPI, Node.js
+Design:      Storybook, Figma, Accessible UI Patterns
 
-Here are some ideas to get you started:
+____________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+.  lendsqr-fe
+.  admin-dashboard
+.  foodies
+.  hotel-booking-app 
+.  movie-app
+
+Let’s Connect
+🌐 gmail → omotosho521@gmail.com
+💼 LinkedIn → linkedin.com/in/temitope-omotosho-956a452b6
